@@ -13,5 +13,3 @@ spec:
     authorName: fluxcdbot
     messageTemplate: '[ci skip] update image'
   interval: 30s
-  update:
-    setters: {}
