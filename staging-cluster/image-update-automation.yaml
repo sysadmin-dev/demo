@@ -9,7 +9,7 @@ spec:
     gitRepositoryRef:
       name: flux-system
   commit:
-    authorEmail: fluxcdbot@users.noreply.github.com
+    authorEmail: pamela.matun@ag04.com
     authorName: fluxcdbot
     messageTemplate: '[ci skip] update image'
   interval: 30s
