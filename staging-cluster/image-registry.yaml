@@ -4,5 +4,5 @@ metadata:
   name: podinfo
   namespace: flux-system
 spec:
-  image: quay.io/openshift-fluxv2-poc/podinfo
+  image: https://quay.io/repository/pamelamatun/flux-demo
   interval: 30s
